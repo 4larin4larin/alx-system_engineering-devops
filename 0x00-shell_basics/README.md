@@ -8,3 +8,4 @@
 7 - mv /tmp/betty /tmp/my/first/directory
 8 - Delete file rm /tmp/betty /tmp/my/first/directory
 9 - Delete /tmp/my_first_directory
+10 - Change to previous directory
