@@ -5,3 +5,4 @@
 4 - Display current directory including hidden files ls -la
 5 - Display current directory in long format ls -la
 6 - cd /
+7 - mv /tmp/betty /tmp/my/first/directory
