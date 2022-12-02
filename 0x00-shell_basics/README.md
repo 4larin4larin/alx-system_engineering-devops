@@ -3,3 +3,4 @@
 2 - Change directory to home directory
 3 - Listing out vertically
 4 - Display current directory including hidden files
+5 - Display current directory in long format
