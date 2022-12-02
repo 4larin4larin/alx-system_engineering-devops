@@ -6,3 +6,5 @@
 5 - Display current directory in long format ls -la
 6 - cd /tmp/my/first/directory
 7 - mv /tmp/betty /tmp/my/first/directory
+8 - Delete file rm /tmp/betty /tmp/my/first/directory
+9 - Delete /tmp/my_first_directory
