@@ -1,6 +1,7 @@
-0 - Print working directory
-1 - Listing out files
-2 - Change directory to home directory
-3 - Listing out vertically
-4 - Display current directory including hidden files
-5 - Display current directory in long format
+0 - Print working directory pwd
+1 - Listing out files ls
+2 - Change directory to home directory cd ~
+3 - Listing out vertically ls -l
+4 - Display current directory including hidden files ls -la
+5 - Display current directory in long format ls -la
+6 - cd /
