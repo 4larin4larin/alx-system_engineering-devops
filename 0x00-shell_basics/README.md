@@ -9,4 +9,4 @@
 8 - Delete file rm /tmp/betty /tmp/my/first/directory
 9 - Delete /tmp/my_first_directory
 10 - Change to previous directory
-11 - listing out files ls -a . .. /boot
+11 - listing out files ls -al . .. /boot
