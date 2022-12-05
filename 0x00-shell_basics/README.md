@@ -12,3 +12,4 @@
 11 - listing out files ls -al . .. /boot
 12 - file /tmp/iamafile
 13 - ln file link -s file name
+14 - cp ~un ".html ../
