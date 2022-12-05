@@ -10,3 +10,4 @@
 9 - Delete /tmp/my_first_directory
 10 - Change to previous directory
 11 - listing out files ls -al . .. /boot
+12 - file /tmp/iamafile
